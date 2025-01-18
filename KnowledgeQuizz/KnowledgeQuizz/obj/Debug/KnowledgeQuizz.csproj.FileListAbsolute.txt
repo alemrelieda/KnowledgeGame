@@ -1,0 +1,13 @@
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\bin\Debug\KnowledgeQuizz.exe.config
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\bin\Debug\KnowledgeQuizz.exe
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\bin\Debug\KnowledgeQuizz.pdb
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.csproj.AssemblyReference.cache
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.Form1.resources
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.Properties.Resources.resources
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.csproj.GenerateResource.cache
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.csproj.CoreCompileInputs.cache
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.exe
+C:\Users\Eda\source\repos\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.pdb
+C:\Users\Eda\Desktop\KnowledgeQuizz\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.csproj.AssemblyReference.cache
+C:\Users\Eda\Desktop\KnowledgeQuizz\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.exe
+C:\Users\Eda\Desktop\KnowledgeQuizz\KnowledgeQuizz\KnowledgeQuizz\obj\Debug\KnowledgeQuizz.pdb
